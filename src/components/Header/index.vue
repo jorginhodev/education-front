@@ -1,7 +1,9 @@
 <template>
   <div class="wrapper">
     <header>
-      <img src="@/assets/logo.png" alt="Imagem com a logo do Milão da Atlas">
+      <router-link to="/">
+        <img src="@/assets/logo.png" alt="Imagem com a logo do Milão da Atlas">
+      </router-link>
       <span>
         Olá, Javier
         <img
