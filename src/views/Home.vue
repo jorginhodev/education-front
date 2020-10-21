@@ -1,17 +1,19 @@
 <template>
   <div class="home">
-    <h1>Milão</h1>
+    <Header />
 
-    <events />
+    <Events />
   </div>
 </template>
 
 <script>
-import Events from '../components/Events/index.vue';
+import Header from '@/components/Header/index.vue';
+import Events from '@/components/Events/index.vue';
 
 export default {
   name: 'Home',
   components: {
+    Header,
     Events,
   },
 };
