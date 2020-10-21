@@ -24,20 +24,26 @@
             </p>
           </div>
           <footer>
-            <button>Quero ir</button>
+            <button @click="goEvent">Quero ir</button>
           </footer>
         </article>
       </section>
+
+      <modal @close="closeModal" v-show="openModal" />
     </div>
 </template>
 
 <script>
+import Modal from '@/components/Modal/index.vue';
+
 export default {
   name: 'Events',
   components: {
+    Modal,
   },
   data() {
     return {
+      openModal: false,
       events: [
         {
           id: 1,
@@ -97,6 +103,10 @@ export default {
   methods: {
     goEvent() {
       console.log('ir no evento');
+      this.openModal = true;
+    },
+    closeModal() {
+      this.openModal = false;
     },
   },
 };
