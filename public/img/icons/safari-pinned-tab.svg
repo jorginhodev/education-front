@@ -1,3 +1,8 @@
-<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M8.00251 14.9297L0 1.07422H6.14651L8.00251 4.27503L9.84583 1.07422H16L8.00251 14.9297Z" fill="black"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="570.704" height="565.877" viewBox="0 0 570.704 565.877">
+  <path id="Caminho_710" data-name="Caminho 710" d="M-13398.782-2513.031v525.919h157.466v-297.66l122.925,110.734,127.276-109.578,1.862,296.555,160.395-.05.779-537.575-89.531,86.455.368-114.707h-16.255l-184.895,168.608-183.879-168.608h-11.175l.146,115.193Z" transform="translate(13398.782 2552.939)" fill="#ca42b4"/>
+  <path id="Caminho_711" data-name="Caminho 711" d="M-13330.622-2367.845v319.8h25.848V-2342.6Z" transform="translate(13397.782 2552.939)" fill="#282828"/>
+  <path id="Caminho_712" data-name="Caminho 712" d="M-13304.774-2367.845v319.8h-25.848V-2342.6Z" transform="translate(13805.782 2552.939)" fill="#282828"/>
+  <path id="Caminho_713" data-name="Caminho 713" d="M-13241.66-2367.845l127.439,108.8,130.444-108.8v-43.282l-130.444,115.417-127.439-115.417Z" transform="translate(13397.782 2552.939)" fill="#282828"/>
+  <path id="Caminho_714" data-name="Caminho 714" d="M-.087-34.5,40,0V85.568L1.177,50.321Z" transform="translate(155.782 217.939)" fill="#8b2d7b"/>
+  <path id="Caminho_715" data-name="Caminho 715" d="M40.081-43.689,40,4.475-26.88,62.81V15.373Z" transform="translate(434.782 253.939)" fill="#8b2d7b"/>
 </svg>
